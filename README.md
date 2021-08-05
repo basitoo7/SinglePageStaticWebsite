@@ -1,2 +1,2 @@
 # SinglePageStaticWebsite
-Single Page Static responsive Website for all devices
+Single Page Static responsive Website for all device Jquery, JavaScript, Html5, css4
